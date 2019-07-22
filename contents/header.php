@@ -1,0 +1,1 @@
+<img class="stretch" src="img/header.jpg">
