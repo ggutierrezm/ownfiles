@@ -1,9 +1,10 @@
-<!--
-24 Jul 2019
-Copyright (c) 2019, Guillermo Gutierrez Morote
-Released under the GPL license
-http://www.gnu.org/copyleft/gpl.html
--->
+
+<?php
+// 24 Jul 2019
+// Copyright (c) 2019, Guillermo Gutierrez Morote
+// Released under the GPL license
+// http://www.gnu.org/copyleft/gpl.html
+?>
 <div ng-app="myfiles" ng-controller="content" class="content">
   <table ng-show="hasData">
     <thead>
