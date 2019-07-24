@@ -1,9 +1,10 @@
-<!--
-24 Jul 2019
-Copyright (c) 2019, Guillermo Gutierrez Morote
-Released under the GPL license
-http://www.gnu.org/copyleft/gpl.html
--->
+
+<?php
+// 24 Jul 2019
+// Copyright (c) 2019, Guillermo Gutierrez Morote
+// Released under the GPL license
+// http://www.gnu.org/copyleft/gpl.html
+?>
 <div class="setup-content" ng-app="setup" >
 	<div class="setup-form">
 		<form method="post" ng-controller="content" ng-submit="change_user()">
