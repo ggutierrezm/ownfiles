@@ -1,4 +1,8 @@
 <?php
+// 24 Jul 2019
+// Copyright (c) 2019, Guillermo Gutierrez Morote
+// Released under the GPL license
+// http://www.gnu.org/copyleft/gpl.html
 function guid(){
     if (function_exists('com_create_guid')){
         return com_create_guid();

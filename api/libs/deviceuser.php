@@ -1,4 +1,8 @@
 <?php
+// 24 Jul 2019
+// Copyright (c) 2019, Guillermo Gutierrez Morote
+// Released under the GPL license
+// http://www.gnu.org/copyleft/gpl.html
 $user_uid = $_POST['user_uid'];
 $handle = $db->prepare('SELECT id FROM ' .$connection_prefix. 'users WHERE user_uid = :user_uid'); 
 $user_id = -1;
