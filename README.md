@@ -16,4 +16,6 @@ Edit the file config.php located in config folder to much your server configurat
 
 # live demo at:
 
+(registrations closed) please contact for access
+
 https://binarycat.org/ownfiles/
